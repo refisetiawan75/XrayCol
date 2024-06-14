@@ -8,7 +8,7 @@
 ## Yang ga punya domain lakukan perintah ini <br>
   
   ```html
- wget -q -O auto.sh https://raw.githubusercontent.com/Agunxzzz/Mina-Xray-SSH/main/domaingratis && chmod +x auto.sh && ./auto.sh
+ wget -q -O auto.sh https://raw.githubusercontent.com/refisetiawan75/Mina-Xray-SSH/main/domaingratis && chmod +x auto.sh && ./auto.sh
  ```
 ## Pastikan Semua Port Sudah di Buka
 
